@@ -12,3 +12,8 @@ Movement of piece on one board => Detection of Piece using Magnetic Reed switche
 The movement is detected by using reed sensors that are triggered by the magnetic field from permanent magnets placed on the bottom of each piece.When square containing a piece will have its reed switch activated because of magnetic field due to magnet present on piece and the reed sensor at the square where the piece is taken is inactive. So by this way we can detect that which piece is moved.
 ### Movement of Pieces
 An X-Y plotter or 2D CNC machine can be modified to our need in this project. Instead of marker or driller, we can use a Magnet which is lowered and raised accordingly(this is not to happen unnecessary moves due to magent).This total setup is to be kept below the board.
+### Commmunication between the chess boards
+Since we want use this project for large distances, Wifi module is used for this project which has access for high internet connection. Bluetooth module is used for smaller range of distance.
+
+## Follow-Up
+https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f
