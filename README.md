@@ -17,4 +17,5 @@ Since we want use this project for large distances, Wifi module is used for this
 
 ## Follow-Up
 **Detection of movement of pieces**
+
 1.Sensors used:
