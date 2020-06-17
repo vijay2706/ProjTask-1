@@ -18,5 +18,10 @@ Since we want use this project for large distances, Wifi module is used for this
 ## Follow-Up
 **Detection of movement of pieces**
 
-1.Sensors to be used: Reed switches[(Datasheet)](http://pdf.datasheetcatalog.com/datasheets2/80/80372_1.pdf)
+- Sensors to be used: Reed switches[(Datasheet)](http://pdf.datasheetcatalog.com/datasheets2/80/80372_1.pdf)
+- Position: Below the each square of the chesss board.
+- Quantity: 64 Reed switches.
+- Size: Reed switches are small i.e, approximately 15mm.
+- Data from Sensor: The reading is basically ON or OFF(0 or 1) i.e., it gives on when piece is present and off otherwise.
+- Piece detection is done by keeping the track of sensors data. As the piece moves one box to another, the sensor at destination square is on and sensor at previously occupied square is off. So, by knowing these two positions and knowing the rules(movement of each piece), the piece can be detected.
 
