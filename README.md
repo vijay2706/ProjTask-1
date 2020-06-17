@@ -17,3 +17,5 @@ Since we want use this project for large distances, Wifi module is used for this
 
 ## Follow-Up
 https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f
+https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f
+computer
