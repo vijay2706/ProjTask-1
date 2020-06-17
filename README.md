@@ -16,6 +16,5 @@ An X-Y plotter or 2D CNC machine can be modified to our need in this project. In
 Since we want use this project for large distances, Wifi module is used for this project which has access for high internet connection. Bluetooth module is used for smaller range of distance.
 
 ## Follow-Up
-https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f
-https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f
-computer
+https://www.youtube.com/watch?v=s1p6Qbesh6g
+
